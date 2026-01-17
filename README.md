@@ -1,3 +1,23 @@
+
+
+
+
+
+
+<img width="633" height="361" alt="churn data analysis " src="https://github.com/user-attachments/assets/2e9ed375-76d9-4fd4-9a06-e26c1fda81a8" />
+
+
+
+
+
+
+
+
+
+
+
+
+
 Customer Retention & Churn Analysis Dashboard
 
 -Project Overview
